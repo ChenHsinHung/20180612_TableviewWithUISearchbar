@@ -36,8 +36,8 @@
 		F817E9CF20D0131A005CA942 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F817E9D520D015E1005CA942 /* heroTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = heroTableViewCell.swift; sourceTree = "<group>"; };
 		F81C271B23006AD200C60684 /* fullImageviewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fullImageviewViewController.swift; sourceTree = "<group>"; };
-		F889A898230C4E7600091B98 /* itemCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = itemCollectionViewCell.swift; path = ../itemCollectionViewCell.swift; sourceTree = "<group>"; };
-		F889A899230C4E7600091B98 /* itemCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = itemCollectionViewCell.xib; path = ../itemCollectionViewCell.xib; sourceTree = "<group>"; };
+		F889A898230C4E7600091B98 /* itemCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = itemCollectionViewCell.swift; sourceTree = "<group>"; };
+		F889A899230C4E7600091B98 /* itemCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = itemCollectionViewCell.xib; sourceTree = "<group>"; };
 		F8D03248210DC65B00F97F76 /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
 		F8D0324B210E108500F97F76 /* extension_File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = extension_File.swift; sourceTree = "<group>"; };
 		F8DEE44E2307F6DC00A82AF1 /* mydefineCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mydefineCell.swift; sourceTree = "<group>"; };
@@ -75,6 +75,8 @@
 		F817E9C220D01319005CA942 /* 20180612_TableviewWithUISearchbar */ = {
 			isa = PBXGroup;
 			children = (
+				F889A898230C4E7600091B98 /* itemCollectionViewCell.swift */,
+				F889A899230C4E7600091B98 /* itemCollectionViewCell.xib */,
 				F817E9C320D01319005CA942 /* AppDelegate.swift */,
 				F8D03248210DC65B00F97F76 /* DataModel.swift */,
 				F817E9C520D01319005CA942 /* ViewController.swift */,
@@ -82,8 +84,6 @@
 				F817E9D520D015E1005CA942 /* heroTableViewCell.swift */,
 				F8DEE44E2307F6DC00A82AF1 /* mydefineCell.swift */,
 				F8DEE44F2307F6DC00A82AF1 /* mydefineCell.xib */,
-				F889A898230C4E7600091B98 /* itemCollectionViewCell.swift */,
-				F889A899230C4E7600091B98 /* itemCollectionViewCell.xib */,
 				F817E9C720D01319005CA942 /* Main.storyboard */,
 				F817E9CA20D0131A005CA942 /* Assets.xcassets */,
 				F817E9CC20D0131A005CA942 /* LaunchScreen.storyboard */,
